@@ -1,2 +1,2 @@
 # Object-detection
-Object detection is performed using YOLOV4 
+Object detection is performed using YOLOv4 model architecture
